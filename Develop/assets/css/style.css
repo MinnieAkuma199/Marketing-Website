@@ -1,4 +1,3 @@
-/* * means this is calling to everything within <html> */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-/* it is all set as classes below..but there are some ids in html bc we are linking w/in a webpage so dont need anything in css just in html */
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
